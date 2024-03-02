@@ -1,5 +1,5 @@
 package Mypackage;
-//
+
 public class Assignment2 {
 	public static void main(String args[]) {
 		int n=9;
