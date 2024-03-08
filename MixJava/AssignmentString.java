@@ -1,5 +1,5 @@
 package Mypackage;
-//
+
 public class AssignmentString {
 	public static void main(String args []) {
 		String s="PW SKILLS";
