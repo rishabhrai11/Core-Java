@@ -1,5 +1,5 @@
 package Mypackage;
-//
+
 class CargoPlane extends Aeroplane // inheriting Aeroplane class
 {
 	public void fly() //overriding method
